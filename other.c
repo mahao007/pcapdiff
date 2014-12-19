@@ -21,4 +21,5 @@
 int main(int argc, char **argv)
 {
 	printf("hellow world!\n");
+	printf("hellow world,too!\n");
 }
